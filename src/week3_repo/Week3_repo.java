@@ -12,6 +12,7 @@ public class Week3_repo {
 
     /**
      * @param args the command line arguments
+     * week3
      */
     public static void main(String[] args) {
         System.out.println("Learning github");
