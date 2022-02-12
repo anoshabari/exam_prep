@@ -16,6 +16,7 @@ public class Week3_repo {
      */
     public static void main(String[] args) {
         System.out.println("Learning github");
+        System.out.println("Changes in GitHub");
     }
     
 }
